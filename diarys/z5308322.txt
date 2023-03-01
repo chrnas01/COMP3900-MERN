@@ -1,0 +1,65 @@
+Week 1
+  - Formed group with Myself, Eugenius, Roland, Archie, Chris
+  - Discussed custom project proposal for a private tutoring marketplace and how to implement it
+  - Discussed split of code and who will do back-end, front-end, database, etc
+  - I became SCRUM master
+  - Created the Jira board
+  - Created and submitted custom project proposal
+
+Week 2
+  - Amended custom project proposal with new novelties discussed in tutorial which was accepted
+  - Created the Github classroom after it stopped being so buggy
+  - Found the UNSW courses API to get course information from, test exported with a script to a file with codes and names
+
+Week 3
+  - Split up proposal work within the group
+  - Worked on some background writing, added some missing user story stubs to be fleshed out, wrote out fulfillment of novel criteria
+    and project objectives, created sprint timetable, split user stories into sprints, added some user stories to Jira, screenshotted 
+    Jira user stories created title page and table of contents, formatted and submitted.
+
+Week 4
+- Had meeting to split work within Sprint 1, I set up all the Jira allocations  
+- Worked on intial tutor profile front-end
+- Created preliminary basic homepage with tutors for testing
+
+Week 5
+  - Demoed sprint 1
+  - Started sprint 2, split work and I set up the Jira allocations
+  - Had team retrospective meeting, I took notes for the report later
+  - Researched how to complete my front-end parts
+  - Some bug-fixes
+
+Week 6 (FLEXI WEEK)
+  - Did not do much, took the week off and went on a cruise
+  - Team meeting on sprint progress at the end of the week
+  - Collated retrospective meeting notes into Retrospective A and submitted
+  
+Week 7
+  - Wasn't able to complete my sprint 2 due to leaving testing too late and me not specifying more on backend requirements
+  - Demoed sprint 2
+  - Started sprint 3, split work and I set up the Jira allocations
+  - Created specific Jira items that were more atomic than previous sprints
+  - Specific team meeting on backend requirements and timeframes as to prevent same issues in sprint 2
+  - Had team retrospective meeting, I took notes for the report later
+  - Researched how to complete my front-end parts
+  
+Week 8
+  - Collated retrospective meeting notes into Retrospective B and submitted
+  - Started on my leftover parts from Sprint 2 that I didn't complet
+  - Tutor and course filtering ^
+  - Team meeting on progress
+  - Added nice-to-haves and bugfix requirements to Jira
+
+Week 9
+  - Worked on tutor filtering front-end, completed
+  - Worked on course filtering front-end, completed
+  - Worked on tutor recommendation front-end, compled
+  - Team meeting on Sunday before presentation to fix up any bugs and go thorugh the project, front-end styling fixes that needed to be done
+  - Checked Jira for anomalies and marked off relevant items
+  - Fixed sprint 3 done items disappearing in Jira
+
+Week 10
+  - Worked on presentation ordering and who presents what section
+  - Refactored some code for .env usage in ports and urls and submitted source code
+  - Submitted peer assessment
+  - Worked on project objectives in report, proofread everyones sections, formatted entire report, submitted

@@ -1,0 +1,41 @@
+User Diary
+Week 1
+-	Brainstormed ideas for first project
+-	Worked on project proposal form
+-	Set up a mode of contact for everyone
+-	Decided on technologies to use in the project
+Week 2
+-	Revised project proposal form
+-	Figured out new novel functionalities
+-	Defined roles for everyone to do in the project
+-	Decided to focus mainly on frontend for myself but am open to helping with backend
+-	Set up jira and github accounts
+Week 3
+-	Split up work for the proposal
+-	Worked on the background portion of the proposal, defining the problem, and talking about one other existing solution and its drawbacks
+-	Created 2 user stories, one for the recommendation system for students looking for tutors, and the other on for the crypto payments we will implement
+Week 4
+-	Submitted project proposal 
+-	split up work for first sprint
+-	set up frontend boiler plate and initial pages
+Week 5
+-	Completed Sprint 1
+-	Began Sprint 2 
+-	Divided work appropriately for sprint 2 
+-	Had retrospective meeting for sprint 1
+Week 6
+-	Completed Retrospective report as a team 
+-	has group meetings to understand where everyone is at
+Week 7
+-	Submitted Retrospective 
+-	cleaned up a lot of the frontend from sprint 1
+-	finished working on sprint 2
+Week 8
+-	updated frontend to use new schema
+-	created course picker
+Week 9
+-	created frontend appointments functionality
+-	fixed frontend bugs
+-	updated tutor profiles
+-	hooked up reviews to frontend
+-	cleaned up UI for most pages

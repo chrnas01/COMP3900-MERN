@@ -1,0 +1,58 @@
+Week 1
+    - Presented at Week 1 Lab for the formation of a group with the other 4 members: Adam, Chris, Eugenius and Roland
+    - Agreed on Adam and Eugenius's initial proposal for the project: A UNSW tutoring marketplace application
+    - Discussed custom project proposal and divided workload as per frontend/backend/database, I was doing the frontend along with Adam and Eugenius.
+    - Created a Jira account and joined the Jira project 
+    - Joined the Discord server as the regular team communication method.
+
+Week 2 
+    - Presented at Week 2 Lab for the feedback of the Custom Project Request Form
+    - Discussed and agreed on two project novelty features: Cryptocurrency payements & Tutor recommendations system
+    - Joined our GitHub Classroom
+
+Week 3 
+    - Presented at Week 3 Lab for the task assignment of the final Project Proposal due in Week 4
+    - Was assigned to write User Stories
+    - Watched Rachid Hamadi's week 2 lecture to understand the requirements and format of User Stories in Project Proposal
+    - Created 14 User Stories in Jira backlog as per the 8 Objectives from Custom Project Request Form
+    - Presented at Sat afternoon team meeting in Discord.
+
+Week 4 
+    - Presented at Week 4 Lab for the feedback of the final Project Proposal submitted on Tue Week 4  
+    - Discussed and assigned tasks of Jira backlog for Sprint 1, I was doing Register/Login front pages
+    - Setup npm dependency package using package.json 
+    - Created git branches for coding Tutor&Student Register/Login pages and its initially required API function.
+
+Week 5
+    - Completed the assigned Sprint 1 Jira issues
+    - Presented at Week 5 Lab for Progressive Demo 1
+    - Had team meeting for Sprint 2
+
+Week 6 (flexible week)
+    - Contributed to the completion Retrospective 1 for Sprint 1
+    - Regular checked in Jira and the group chat to make sure myself is updated to the start of Sprint 2
+
+Week 7
+    - Presented at Week 7 Lab for the feedback of Retrospective 2 submitted in Week 6
+    - Implemented student leaving reviews for tutors functionality 
+    - Completed the assigned Sprint 2 Jira issues 
+
+Week 8
+    - Presented at Week 8 Lab for Progressive Demo 2
+    - Discussed and assigned the tasks for Sprint 3
+    - Contributed to Retrospective 2 
+
+Week 9
+    - Presented at Week 9 Lab for the feedback of Retrospective 2 
+    - Took the feedback into several improvments in Sprint 3
+    - Implemented email/password/confirmedPassword validatoin for all related pages
+    - Implemented student profile and edit student profile page
+    - Improved UI/UX for tutor profile and edit tutor profile page
+    - Did research on web3-react libary and built web3-react UI for crypto payment extension interaction 
+
+Week 10
+    - Presented at Week 10 Lab for the Final Demo
+    - Demoed register/login/logout/delete for student & tutor; edit/view tutor profile
+    - Completed Final Project Report as per the assigned section (Frontend Overview, Crypto Pay implementation challenges, User manual for student etc.)
+    - Completed and pushed Work Diary
+    - Completed and submitted Peer Review 

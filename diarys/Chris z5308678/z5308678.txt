@@ -1,0 +1,67 @@
+User Diary 
+
+Week 1
+    - Formed a group of 5 team members including myself, Adam, Eugenius, Roland and Archie
+    - Brainstormed potential project ideas
+    - Decided on a UNSW tutoring application for our project
+    - Completed and submitted custom project proposal
+    - Divided workload according to frontend, backend and database - I was assigned backend
+    - Created a Jira account and joined the team project
+    - Created a Discord server to communicate with the team easily.
+
+Week 2 
+    - Project Proposal was successful
+    - Amended project novelty features to include cryptocurrency payements and a tutor recommendations system
+    - Joined our GitHub Classroom
+    - Found UNSW API to easily access all subjects and their relevant information 
+
+Week 3 
+    - Divided work for the project proposal - I was assigned System Architecture.
+    - Researched how an application is comprised of a presentation, business and data layer and recognised these layers in our own project proposal
+    - Researched the MERN stack including additional libraries that are needed for our application
+
+Week 4
+    - Submitted project proposal 
+    - Presented project proposal to tutor 
+    - Received first assignments/tasks on Jira for completion
+    - Created my own branch and began writing code
+    - First commit to our project GitHub Repo 
+
+Week 5
+    - Completed Sprint 1
+    - Demonstrated Software progess to tutor 
+    - Began Sprint 2 
+    - Divided work appropriately for sprint 2 
+    - Spoke about how we could improve on sprint 1 through sprint 2 
+
+Week 6
+    - Completed Retrospective as a team 
+    - Spoke about what we are doing well and what needed improvement 
+    - Regular group check-ins to ensure sprint 2 was progressing as expected
+
+Week 7
+    - Submitted Retrospective 
+    - Finalised Sprint 2 
+
+Week 8
+    - Completed Sprint 2 
+    - Demonstrated software progess to tutor
+    - Met with team to consider how we could improve on features implemented prior and what features 
+      needed to be implemented in Sprint 3.
+    - Was assigned appointments, reviews and chats backend work 
+    - Brainstormed nice-to-have features with team 
+
+Week 9
+    - Submitted Retrospective B 
+    - Refactored user schema following group feedback from sprint 2
+    - Implemented remaining backend features including reviews, appointments and tutor recommendations, tutor filtering, profile pic storage and more
+    - Set up crypto payments in the frontend using web3-react 
+    - Spoke with the team about different frontend bugs I encountered when tested my backend work 
+
+Week 10
+    - Delivered Final Project Demo to tutor 
+    - Completed and submitted peer review 
+    - Researched all libraries I used in the backend and their respective licenses
+    - Submitted project report 
+    - Cleaned up code and finalised diary before final code submission
+    - Submitted code

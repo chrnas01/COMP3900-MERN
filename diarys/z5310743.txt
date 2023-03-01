@@ -1,0 +1,58 @@
+Week 1:
+•	Group is formed with 5 members including me, Adam, Eugenius, Archie and Chris
+•	All five of us have discussed and come up with a project idea for an online UNSW tutoring marketplace
+•	In terms of software, the team has decided to use MERN stack to complete the project
+•	I have been assigned to build the database for the project using MongoDB
+•	I have created a Jira account and joined the team project
+
+Week 2:
+•	The project form has been accepted 
+•	I have created the first few tasks in relation to our proposal and starting the project within the backlog in Jira
+•	I have also converted a file of all available courses in UNSW containing name and course code into JSON format to be imported into a Mongo collection within our project database
+•	I have created the GitHub account and will join the GitHub classroom when it is available
+
+Week 3:
+•	Group met up and delegated the work for each part of the proposal
+•	I have joined the GitHub classroom
+•	I created User stories with acceptance criteria and drew out the storyboard/flow charts to encompass all of them for the proposal
+• Discussed with the group final steps to finish up and clean proposal
+
+Week 4:
+• Designed the structure and fields of required collections for the Mongo database of our project
+• Set up a Mongo atlas account with a cluster and collections for the project 
+• Imported all courses into course collection
+• Created my own separate branch and connected server to my database
+• Wrote schemas for all current collections on my branch and sent in my first pull request into main!
+• Discussed the structure of the schemas I have created with Chris and come up with way to improve them
+• Looked over revised schemas made by Chris and added in schema for messages to finish schema setup
+
+Week 5:
+• Completed project check in after srint one
+• Work was delagated for the upcoming sprint 2
+• began work on retrospective relating to sprint 1
+
+Week 6:
+• Team meeting during flex week
+• Discussed retospective as a team 
+• I began research to see how to complete my part for sprint 2
+
+Week 7:
+• Began coding for my part of sprint 2
+• Created UI layout for chat page
+• Created button for students to link to chat page and create new chats in DB
+
+Week 8:
+• Created form to allow users to submit and send messages to other users
+• Created display for sent messages to appear in as well as chat bubble design for each message to be encased in
+• Created ability to diffrentiate between sender and reciever's messages depending on logged in user 
+• Route to fetch previous messages and display upon selecting a user to chat with
+• Fix bugs for messaging functionality
+
+Week 9:
+• Formatted messages display in correct order with proper spacing and separation depending on sender
+• Set up socket in frontend to connect to backend sockets for real-time messaging
+• Fixing bugs for messaging 
+• Selectchat will show most recent messages upon entering chat page
+
+
+
